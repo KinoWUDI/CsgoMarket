@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">CsgoMarket</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_rank">排行榜</string>
+    <string name="title_guanzhu">共同关注</string>
+    <string name="title_account">账户</string>
+    <string name="title">csgo2.wiki</string>
 </resources>
